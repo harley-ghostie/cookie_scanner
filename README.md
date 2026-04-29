@@ -1,4 +1,9 @@
 # Cookie Security Scanner & Session Validation
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-brightgreen?style=for-the-badge)
+> [!NOTE]
+> Projeto em desenvolvimento.
+>
+> Este repositório reúne scripts de apoio para validação técnica e triagem de segurança. Os scripts podem passar por ajustes, refatoração e melhorias de precisão conforme novos cenários forem testados.
 
 Repositório com scripts para validação de segurança em cookies HTTP, manipulação de cookies no DOM e teste controlado de validade de sessão autenticada.
 
