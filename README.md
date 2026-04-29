@@ -289,16 +289,6 @@ Perfil
 
 ---
 
-### Exemplo ajustado
-
-```python
-PHPSESSID = "abc123def456"
-target_url = "https://exemplo.com.br/dashboard"
-auth_keyword = "Minha conta"
-```
-
----
-
 ### Exemplo de execução
 
 ```bash
